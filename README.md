@@ -1,6 +1,6 @@
 # Senior-Thesis
 
-This repository contains all of the jupyter notebook files and myt final report used during my undergraduate American Studies senior thesis. Below is the abstract of my final essay. 
+This repository contains all of the jupyter notebook files and my final report used during my undergraduate American Studies senior thesis. Below is the abstract of my final essay. 
 
 # Abstract
 
